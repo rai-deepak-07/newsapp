@@ -23,19 +23,19 @@ Live Demo 👉 [https://rai-deepak-07.github.io/newsapp/](https://rai-deepak-07.
 ![NewsApp Screenshot](https://rai123.pythonanywhere.com/media/portfolio/project/NewsApp/NewsApp_01.png.png) <!-- Replace with actual image or remove -->
 
 ## 📁 Folder Structure
-newsapp/
-├── public/
-├── src/
-│ ├── components/
-│ │ ├── Navbar.js
-│ │ ├── News.js
-│ │ ├── NewsItem.js
-│ │ ├── Spinner.js
-│ │ └── NoPage.js
-│ ├── App.js
-│ └── index.js
-├── .env
-├── package.json
+newsapp/  
+├── public/  
+├── src/  
+│ ├── components/  
+│ │ ├── Navbar.js  
+│ │ ├── News.js  
+│ │ ├── NewsItem.js  
+│ │ ├── Spinner.js  
+│ │ └── NoPage.js  
+│ ├── App.js  
+│ └── index.js  
+├── .env  
+├── package.json  
 └── README.md
 
 
