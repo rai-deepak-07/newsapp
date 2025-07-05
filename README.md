@@ -9,13 +9,21 @@ Live Demo 👉 [https://rai-deepak-07.github.io/newsapp/](https://rai-deepak-07.
 ## 🚀 Features
 
 - 🌐 Country dropdown to fetch news based on selected region.
+
 - 🗂️ Multiple categories: Business, Entertainment, General, Health, Science, Sports, Technology.
+
 - 📡 Live data from **GNews API**.
+
 - 📶 Offline detection with fallback image.
+
 - 🔄 Pagination with Previous/Next buttons.
+
 - 📊 Top loading bar to indicate fetching status.
+
 - 📱 Mobile responsive and clean UI.
+
 - 🧠 Uses React functional components + Hooks (`useEffect`, `useState`).
+
 - 🌍 Hosted on **GitHub Pages** using `HashRouter`.
 
 ## 🖼️ Preview
